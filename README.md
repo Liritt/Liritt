@@ -2,4 +2,6 @@
 
 __Je suis un étudiant en développement web avec un niveau extrêment douteux mais tranquille, je vais m'améliorer ! (j'espère hein -_-)__
 
-Bisous !
+Bisous ! 
+
+Date de création du readme : 02/08/2022 19:09
