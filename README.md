@@ -1,4 +1,4 @@
-**Bonjour, moi c'est Liritt ! Vous pouvez aussi vous addresser à moi sous le nom de Gaétan Lemont**
+**Bonjour, moi c'est Lirit ! Vous pouvez aussi vous addresser à moi sous le nom de Gaétan Lemont**
 
 __Je suis étudiant dans le domaine du web et je recherche actuellement un stage ! N'hésitez pas à me contacter, je suis quelqu'un de passioné qui aime progresser__
 
