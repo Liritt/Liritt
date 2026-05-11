@@ -1,5 +1,4 @@
-# 👋 Salut, moi c'est Lirit  
-### aka Gaétan Lemont
+# 👋 Salut, moi c'est Liritt
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=D%C3%A9veloppeur+Web+%F0%9F%92%BB;Master+2+R%C3%A9seaux+%26+T%C3%A9l%C3%A9communications;Sp%C3%A9cialisation+Dev+Applicatif+%26+S%C3%A9curit%C3%A9;Passionn%C3%A9+de+Scraping+et+Data+Exploitation+%F0%9F%95%B7%EF%B8%8F" alt="Typing SVG" />
