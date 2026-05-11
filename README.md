@@ -12,7 +12,7 @@
 🎓 Actuellement en **Master 2 Réseaux & Télécommunications**  
 🔐 Spécialisation en **Développement d'applications & Sécurité**  
 💻 Développeur web passionné par la création d'outils et d'applications modernes  
-🕷️ Gros intérêt pour le **scraping**, l'automatisation et l'exploitation intelligente des données  
+🕷️ Passion pour le **scraping**, l'automatisation, l'IA et l'exploitation intelligente des données  
 📊 J’aime transformer des données brutes en informations exploitables  
 ⚡ Toujours en train d’expérimenter de nouvelles technos et de nouveaux projets
 
@@ -21,7 +21,7 @@
 ## 🧠 Technologies & outils
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,php,python,mysql,mongodb,linux,docker,git,github,vscode,bash" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,django,php,react,vue,svelte,nodejs,postgres,mysql,mongodb,docker,linux,git,github,bash,idea" />
 </p>
 
 ---
@@ -55,4 +55,11 @@
 ✔️ Infrastructure & réseaux
 ```
 
+## 🤖 Outils & AI coding
+
+- Claude Code (agent de dev terminal)
+- OpenAI Codex (assistant de développement IA)
+- Playwright (automatisation & scraping browser)
+- Scraping & extraction de données avancée
+  
 Date d'arrivée sur github : 02/08/2022 19:09
